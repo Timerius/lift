@@ -109,7 +109,7 @@ button.btn-style {
   padding: 18px; }
 
 .audio-content {
-  background: url(../img/Audio.png) no-repeat center/cover;
+  background: url("../img/Audio.jpg") no-repeat center/cover;
   width: 100%;
   height: 100%; }
 
@@ -232,7 +232,7 @@ audio {
   cursor: pointer; }
 
 .price-background {
-  background: url(../img/microfon.png) no-repeat center/cover;
+  background: url("../img/microfon.jpg") no-repeat center/cover;
   width: 100%;
   height: 100%; }
 
@@ -320,7 +320,7 @@ audio {
   padding-bottom: 80px; }
 
 .block-news-background {
-  background: url("../img/scena.png") no-repeat center/cover; }
+  background: url("../img/scena.jpg") no-repeat center/cover; }
 
 .block-news-title {
   font-family: "Open Sans", sans-serif;
@@ -350,7 +350,7 @@ audio {
   padding-bottom: 40px; }
 
 .contact-background {
-  background: url("../img/bass_background.png") no-repeat center/cover; }
+  background: url("../img/bass_background.jpg") no-repeat center/cover; }
 
 .contact-block {
   display: flex; }
@@ -1286,7 +1286,7 @@ a.vk:hover {
 /*   СТИЛИ СЛАЙДЕРА 1  */
 /*
 .slider {
-	
+
  z-index: 9;
  width: 990px;
  height: 400px;
@@ -1301,7 +1301,7 @@ a.vk:hover {
  list-style-type: none;
  }
  .slider .ul-sl {
- width: 9999px; 
+ width: 9999px;
  }
  .slider .ul-sl .li-sl {
  list-style-type: none;
@@ -1312,7 +1312,7 @@ a.vk:hover {
  .slider .nav {
  position: absolute;
  left: 15px;
- bottom: 12px; 
+ bottom: 12px;
  }
  .slider .nav span {
  opacity: 0.9;
