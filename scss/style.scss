@@ -24,8 +24,8 @@ a{
 	display: block;
 	text-decoration: none;
 	color: $base-color;
-	font-family:$base-font-a; 
-	padding: 20px 0 20px 0; 
+	font-family:$base-font-a;
+	padding: 20px 0 20px 0;
 
 }
 
@@ -34,9 +34,9 @@ ul{
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
-	flex-wrap: wrap; 
+	flex-wrap: wrap;
 }
-li{	
+li{
     text-align: center;
 }
 li a:hover {
@@ -129,7 +129,7 @@ button.btn-style{
 
 
 .audio-content{
-	background: url(../img/Audio.png) no-repeat center / cover;
+	background: url('../img/Audio.jpg') no-repeat center / cover;
 	width:100%;
 	height:100%;
 }
@@ -265,7 +265,7 @@ audio{
 
 
 .price-background{
-	background: url(../img/microfon.png) no-repeat center / cover;
+	background: url('../img/microfon.jpg') no-repeat center / cover;
 width:100%;
 height:100%;
 }
@@ -355,7 +355,7 @@ height:100%;
 
 
 .block-news-background{
-	background: url('../img/scena.png') no-repeat center / cover;
+	background: url('../img/scena.jpg') no-repeat center / cover;
 }
 .block-news-title{
 	font-family: $base-font-b;
@@ -375,9 +375,9 @@ height:100%;
 .block-news-left, .block-news-right{
 	width: 470px;
 	height: 440px;
-	
+
 	background-color: rgba(250, 250, 250, 0.1);
-	text-align: center; 
+	text-align: center;
 }
 .block-news-text{
 	font-family: $base-font-a;
@@ -388,7 +388,7 @@ height:100%;
 
 
 .contact-background{
-	background: url('../img/bass_background.png') no-repeat center / cover;
+	background: url('../img/bass_background.jpg') no-repeat center / cover;
 }
 
 .contact-block{
@@ -426,7 +426,7 @@ height:100%;
 	letter-spacing: 2px;
 	padding-top:80px;
 	padding-left: 10px;
-	padding-bottom: 20px	
+	padding-bottom: 20px
 }
 .contact-contact{
 	padding-left: 50px;
@@ -589,7 +589,7 @@ a.vk:hover{
   }
   .block-news-left, .block-news-right{
 	width: 36vw;
-	height: 42vw; 
+	height: 42vw;
   }
   .block-news-text{
 	font-size: 2vw;
@@ -641,7 +641,7 @@ a.vk:hover{
 	letter-spacing: 2px;
 	padding-top:60px;
 	padding-left: 5%;
-	padding-bottom: 15px	
+	padding-bottom: 15px
 }
 .contact-contact{
 	padding-left: 2%;
@@ -785,7 +785,7 @@ iframe{
   }
   .block-news-left, .block-news-right{
 	width: 36vw;
-	height: 42vw; 
+	height: 42vw;
   }
   .block-news-text{
 	font-size: 2vw;
@@ -841,7 +841,7 @@ iframe{
 	letter-spacing: 2px;
 	padding-top:60px;
 	padding-left: 5%;
-	padding-bottom: 15px	
+	padding-bottom: 15px
 }
 .contact-contact{
 	padding-left: 2%;
@@ -1039,7 +1039,7 @@ iframe{
   }
   .block-news-left, .block-news-right{
 	width: 36vw;
-	height: 42vw; 
+	height: 42vw;
   }
   .block-news-text{
 	font-size: 2vw;
@@ -1097,7 +1097,7 @@ iframe{
 	letter-spacing: 2px;
 	padding-top:40px;
 	padding-left: 5%;
-	padding-bottom: 5px	
+	padding-bottom: 5px
 }
 .contact-contact{
 	padding-left: 2%;
@@ -1284,7 +1284,7 @@ iframe{
   }
   .block-news-left, .block-news-right{
 	width: 36vw;
-	height: 42vw; 
+	height: 42vw;
   }
   .block-news-text{
 	font-size: 2vw;
@@ -1339,7 +1339,7 @@ iframe{
 	letter-spacing: 2px;
 	padding-top:40px;
 	padding-left: 5%;
-	padding-bottom: 5px	
+	padding-bottom: 5px
 }
 .contact-contact{
 	padding-left: 2%;
@@ -1512,7 +1512,7 @@ iframe{
   }
   .block-news-left, .block-news-right{
 	width: 36vw;
-	height: 42vw; 
+	height: 42vw;
   }
   .block-news-text{
 	font-size: 2vw;
@@ -1567,7 +1567,7 @@ iframe{
 	letter-spacing: 2px;
 	padding-top:40px;
 	padding-left: 5%;
-	padding-bottom: 5px	
+	padding-bottom: 5px
 }
 .contact-contact{
 	padding-left: 0%;
@@ -1629,7 +1629,7 @@ iframe{
 /*   СТИЛИ СЛАЙДЕРА 1  */
 /*
 .slider {
-	
+
  z-index: 9;
  width: 990px;
  height: 400px;
@@ -1644,7 +1644,7 @@ iframe{
  list-style-type: none;
  }
  .slider .ul-sl {
- width: 9999px; 
+ width: 9999px;
  }
  .slider .ul-sl .li-sl {
  list-style-type: none;
@@ -1655,7 +1655,7 @@ iframe{
  .slider .nav {
  position: absolute;
  left: 15px;
- bottom: 12px; 
+ bottom: 12px;
  }
  .slider .nav span {
  opacity: 0.9;
@@ -1674,7 +1674,3 @@ iframe{
  background: #2e9419;
  }
  */
-
-
-
- 
